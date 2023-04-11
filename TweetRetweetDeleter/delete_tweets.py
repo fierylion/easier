@@ -120,4 +120,3 @@ class DeleteTweets:
                     time.sleep(1)
 
 
-program = DeleteTweets('daniel_mawalla', '*{1601}*#', 'This is')
