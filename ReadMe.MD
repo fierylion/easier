@@ -1,7 +1,7 @@
 ### Dedicated Project to Simplify Daily boring tasks
 -Use of selenium library
 
-###Project #1- DeleteTweetRetweet
+### Project #1- DeleteTweetRetweet
 -A program that deletes old tweets and retweets. 
 -Deletion start from a specificied tweet or retweet with a specified message in that tweet or retweet.
 
