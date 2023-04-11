@@ -7,4 +7,4 @@
 
 -Open main.py and Import DeleteTweets and use it as-----
 
-  -DeleteTweets(`specify the username`,`specify the password`, `specify the message contained in that tweet` )
+  -DeleteTweets( `specify the username` , `specify the password` ,  `specify the message contained in that tweet` )
